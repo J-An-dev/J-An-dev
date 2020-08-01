@@ -1,12 +1,12 @@
-## Hey 👋🏻, [J. An][[website]] Here!
+## Hey 👋🏻, [J. An][website] Here!
 
 
-### Welcome to my coding base 🤗. Wanna know me better?
+### Welcome to my coding base. Wanna know me better? 🤗
 
-- 🏠 I spent my first-quart lifetime in Beijing.
-- 🦁 I’m currently studying in New York City.
-- 😎 I define myself as a tech enthusiast, a problem Solver, and a quick learner.
-- 📷 I love to freeze every precious moment with my camera.
+- 🏠  I spent my first-quart lifetime in Beijing.
+- 🦁  I’m currently studying in New York City.
+- 😎  I define myself as a tech enthusiast, a problem Solver, and a quick learner.
+- 📷  I love to freeze every precious moment with my camera.
 
 
 ### Get in touch with me:
