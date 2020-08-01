@@ -12,7 +12,7 @@
 &nbsp; 📷 &nbsp; I love to freeze every precious moment with my camera.
 
 
-### Get in touch with me:
+### Get in touch with me
 
 [<img align="left" alt="j-an.org" width="22px" src="https://raw.githubusercontent.com/J-An-dev/J-An-dev/af42dd731cabf4b945bc0429ed2c25b79553b69e/img/global-line.svg" />][website]
 
@@ -23,6 +23,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/J-An-dev/J-An-dev/af42dd731cabf4b945bc0429ed2c25b79553b69e/img/twitter-line.svg" />][twitter]
 
 <br />
+
 ---
 
 ### ✍🏻 Latest Blog Posts
