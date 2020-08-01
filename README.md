@@ -22,6 +22,10 @@
 
 ### ✍🏻 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NLP Topics](http://yoursite.com/blog/nlp-topics/)
+- [LaTeX Testing](http://yoursite.com/blog/latex-test/)
+- [Load Third-Party Netflix Subtitles](http://yoursite.com/blog/netflix-subtitles/)
+- [Hello World](http://yoursite.com/blog/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 [linkedin]: https://www.linkedin.com/in/jie-an/
