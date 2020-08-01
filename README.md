@@ -1,4 +1,4 @@
-## Hey 👋🏻, [J. An][website] Here!
+## Hey 👋🏻, [J. An](https://j-an.org/) Here!
 
 
 ### Welcome to my coding base. Wanna know me better? 🤗
@@ -24,8 +24,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-[website]: https://j-an.org/
 [linkedin]: https://www.linkedin.com/in/jie-an/
 [instagram]: https://www.instagram.com/aj_ins/
 [twitter]: https://twitter.com/anjie_tweet/
