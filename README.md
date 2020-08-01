@@ -1,20 +1,20 @@
-## Hey 👋🏻 [J. An](https://j-an.org/) here! Welcome to my coding base 🤗
+## Hey 👋🏻 [J. An](https://j-an.org/) here! &nbsp; Welcome to my coding base 🤗
 
 
 ### Following fun facts may help you know me better
 
-🏠  I spent my first-quart lifetime in Beijing.
+&nbsp; 🏠&nbsp;&nbsp;I spent my first-quart lifetime in Beijing.
 
-🦁  I’m currently studying in New York City.
+&nbsp; 🦁 &nbsp; I’m currently studying in New York City.
 
-😎  I define myself as a tech enthusiast, a problem Solver, and a quick learner.
+&nbsp; 😎 &nbsp; I define myself as a tech enthusiast, a problem Solver, and a quick learner.
 
-📷  I love to freeze every precious moment with my camera.
+&nbsp; 📷 &nbsp; I love to freeze every precious moment with my camera.
 
 
 ### Get in touch with me:
 
-[<img align="left" alt="j-an.org" width="22px" src="https://raw.githubusercontent.com/J-An-dev/J-An-dev/af42dd731cabf4b945bc0429ed2c25b79553b69e/img/global-line.svg" />][website]
+&nbsp; [<img align="left" alt="j-an.org" width="22px" src="https://raw.githubusercontent.com/J-An-dev/J-An-dev/af42dd731cabf4b945bc0429ed2c25b79553b69e/img/global-line.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/J-An-dev/J-An-dev/cdfa83e35bd1c033ab76599729d76606390d0ea3/img/linkedin-box-line.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/J-An-dev/J-An-dev/af42dd731cabf4b945bc0429ed2c25b79553b69e/img/instagram-line.svg" />][instagram]
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/J-An-dev/J-An-dev/af42dd731cabf4b945bc0429ed2c25b79553b69e/img/twitter-line.svg" />][twitter]
