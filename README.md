@@ -32,7 +32,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [NLP Topics](https://j-an.org/blog/nlp-topics/)
 - [Load Third-Party Netflix Subtitles](https://j-an.org/blog/netflix-subtitles/)
-- [Hello World](https://j-an.org/blog/hello-world/)
+- [Hello World & LaTeX Testing](https://j-an.org/blog/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://j-an.org/
