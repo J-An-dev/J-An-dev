@@ -28,7 +28,7 @@
 
 ---
 
-### ✍🏻 Latest Blog Posts
+### ✍🏻 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
 - [NLP Topics](https://j-an.org/blog/nlp-topics/)
 - [Load Third-Party Netflix Subtitles](https://j-an.org/blog/netflix-subtitles/)
