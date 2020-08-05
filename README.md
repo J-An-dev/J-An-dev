@@ -30,10 +30,9 @@
 
 ### ✍🏻 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [NLP Topics](http://j-an.org/blog/nlp-topics/)
-- [LaTeX Testing](http://j-an.org/blog/latex-test/)
-- [Load Third-Party Netflix Subtitles](http://j-an.org/blog/netflix-subtitles/)
-- [Hello World](http://j-an.org/blog/hello-world/)
+- [NLP Topics](https://j-an.org/blog/nlp-topics/)
+- [Load Third-Party Netflix Subtitles](https://j-an.org/blog/netflix-subtitles/)
+- [Hello World & LaTeX Testing](https://j-an.org/blog/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://j-an.org/
