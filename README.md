@@ -30,7 +30,6 @@
 
 ### Latest Blog Posts ✍🏻 
 <!-- BLOG-POST-LIST:START -->
-- [Signal 下载](https://j-an.org/blog/signal/)
 - [NLP Topics](https://j-an.org/blog/nlp-topics/)
 - [Load Third-Party Netflix Subtitles](https://j-an.org/blog/netflix-subtitles/)
 - [Hello World & LaTeX Testing](https://j-an.org/blog/hello-world/)
