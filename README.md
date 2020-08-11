@@ -3,7 +3,7 @@
 
 ### Following fun facts may help you know me better
 
-&nbsp; 🏠&nbsp;&nbsp;I spent my first-quart lifetime in Beijing.
+&nbsp; 🏠&nbsp;&nbsp;I spent my first-quarter lifetime in Beijing.
 
 &nbsp; 🦁 &nbsp; I’m currently studying in New York City.
 
