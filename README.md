@@ -7,7 +7,7 @@
 
 &nbsp; 🦁 &nbsp; I’m currently studying in New York City.
 
-&nbsp; 😎 &nbsp; I identify myself as a tech enthusiast, a problem Solver, and an adaptive learner.
+&nbsp; 😎 &nbsp; I identify myself as a tech enthusiast, a problem solver, and an adaptive learner.
 
 &nbsp; 📷 &nbsp; I love to freeze every precious moment with my camera.
 
