@@ -33,7 +33,7 @@
 - [In-depth Study](https://j-an.org/blog/indepth-study/)
 - [Decode the Secrets Behind Recommender Systems](https://j-an.org/blog/matrix-factorization/)
 - [NLP Topics](https://j-an.org/blog/nlp-topics/)
-- [Load Third-Party Netflix Subtitles](https://j-an.org/blog/netflix-subtitles/)
+- [Load Third-party Netflix Subtitles](https://j-an.org/blog/netflix-subtitles/)
 - [Hello World & LaTeX Testing](https://j-an.org/blog/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
