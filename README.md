@@ -30,7 +30,7 @@
 
 ### Latest Blog Posts ✍🏻 
 <!-- BLOG-POST-LIST:START -->
-- [In-depth Study](https://j-an.org/blog/indepth-study/)
+- [In-depth Study - ELK, Kafka, Spark](https://j-an.org/blog/indepth-study/)
 - [Decode the Secrets Behind Recommender Systems](https://j-an.org/blog/matrix-factorization/)
 - [NLP Topics](https://j-an.org/blog/nlp-topics/)
 - [Load Third-party Netflix Subtitles](https://j-an.org/blog/netflix-subtitles/)
